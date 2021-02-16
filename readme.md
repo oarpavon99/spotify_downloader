@@ -19,7 +19,7 @@ It was inspired by the project shown in this [video](https://www.youtube.com/wat
 
 ## Video
 
-Check out the Youtube video for an explanation of how the GUI works and what are the requirements.
+Check out the Youtube [video](https://www.youtube.com/watch?v=la8NWPAeoY0) for an explanation of how the GUI works and what are the requirements.
 
 ## Technologies
 
