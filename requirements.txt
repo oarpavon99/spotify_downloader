@@ -1,0 +1,2 @@
+requests==2.25.1
+youtube_dl==2021.02.10
