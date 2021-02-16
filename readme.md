@@ -15,7 +15,7 @@ It was inspired by the project shown in this [video](https://www.youtube.com/wat
 * [Technologies](#Technologies)
 * [Setup](#Setup)
 * [Usage](#Usage)
-* [Some extra information](#Some extra information)
+* [Some extra information](#SSome extra information)
 
 ## Video
 
